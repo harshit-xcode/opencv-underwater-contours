@@ -30,6 +30,10 @@ The script uses the relative path `pythong/task.jpg`, so run it from the reposit
 
 ![Underwater sample image](pythong/task.jpg)
 
+## Sample output
+
+![Underwater frame with detected contours highlighted in red](results/output.png)
+
 ## Limitations
 
 This is a learning experiment on one sample image. The contour area limits and edge thresholds are specific to this experiment. The output may contain gaps and unwanted contours; it does not perform general underwater object recognition.
